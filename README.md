@@ -1,7 +1,5 @@
 ## COOKIES
 
-Test your knowledge
-
 
 ### Working with Cookies
 Click [here](https://jasonadindu.github.io/cookies/) for cookies
